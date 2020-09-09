@@ -1,5 +1,7 @@
 # Unit 17 Nosql Homework: Workout Tracker
 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 For this assignment, I will create a workout tracker. This assignment utilazes a Mongo database with a Mongoose schema and handles routes with Express.
 
 ## User Story
