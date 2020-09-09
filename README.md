@@ -22,6 +22,9 @@ The user should be able to:
 
   * View the combined weight of multiple exercises on the `stats` page.
 
+## Application UI
+
+![Screen Shot 2020-09-08 at 11 47 29 PM](https://user-images.githubusercontent.com/60904436/92555638-b4dc2d80-f22d-11ea-9056-e5c36405a63f.png)
 
 ## Links
 
