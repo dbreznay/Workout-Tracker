@@ -1,0 +1,28 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "Fitness Tracker App to Help Users Track Workout Routines",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbreznay/Workout-Tracker.git"
+  },
+  "author": "Dylan Breznay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbreznay/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/dbreznay/Workout-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "morgan": "^1.10.0"
+  }
+}
