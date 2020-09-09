@@ -23,8 +23,7 @@ The user should be able to:
   * View the combined weight of multiple exercises on the `stats` page.
 
 
-## Submission on BCS
+## Links
 
-* The URL to the deployed application
-
-* The URL to the GitHub repository
+* The URL to the deployed application: [Live Version](https://workout-tracker011.herokuapp.com/)
+* The URL to the GitHub repository: [GitHub Repo](https://github.com/dbreznay/Workout-Tracker/)
