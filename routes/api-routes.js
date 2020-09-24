@@ -1,5 +1,5 @@
 const express = require('express');
-const db = require('../models');
+const db = require('../models/workout');
 const router = express.Router();
 
 router.get('/api/workouts', (req, res) => {
